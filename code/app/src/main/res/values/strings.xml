@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="playerName"></string>
+    <string name="playerWinCount"></string>
+    <string name="playerHand"></string>
+    <string name="cpuHand"></string>
+    <string name="cpuName"></string>
+    <string name="cpuWinCount"></string>
+    <string name="gameResult"></string>
+</resources>
