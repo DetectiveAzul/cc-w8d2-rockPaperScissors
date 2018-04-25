@@ -5,6 +5,7 @@ public class Rock extends Hand{
     public Rock(){
         super(HandType.ROCK);
         getTrumps().add(HandType.SCISSORS);
+        getTrumps().add(HandType.LIZARD);
 
     }
 }

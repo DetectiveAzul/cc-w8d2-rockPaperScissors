@@ -3,7 +3,9 @@ package com.example.mike.rockpaperscissors.GameModels.Hand;
 public enum HandType {
     ROCK("Rock"),
     PAPER("Paper"),
-    SCISSORS("Scissors");
+    SCISSORS("Scissors"),
+    LIZARD("Lizard"),
+    SPOCK("Spock");
 
     private final String name;
 
